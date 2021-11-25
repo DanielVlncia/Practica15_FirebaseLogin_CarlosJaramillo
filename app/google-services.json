@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900763095286",
+    "project_id": "fir-login-fd6d4",
+    "storage_bucket": "fir-login-fd6d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900763095286:android:4771a186b799d99f8b9cd7",
+        "android_client_info": {
+          "package_name": "jaramillo.carlos.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900763095286-ffvcbj3ct613j1vuch7i79stocb2nrq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOAjJsniPH_Zaa8Wvefa8vcyI5YJFEzMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900763095286-ffvcbj3ct613j1vuch7i79stocb2nrq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
